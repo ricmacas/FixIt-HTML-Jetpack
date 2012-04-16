@@ -780,19 +780,16 @@ nav.menu-bar ul li:first-child a { border-left: 0 }
     margin: 0 0 2px 0;
 }
 .no-js .platform-img.js { display: none }
-
+.align {
+    font-family: 'Open Sans', sans-serif;
+	color: #AF3232;
+    margin-top: 5px;
+    font-size: 15px;
+}
 .alignleft {
 	float: left;
-	margin-top: 5px;
-	font-family: 'Open Sans', sans-serif;
-	color: #AF3232;
-	font-size: 15px;
 }
 .alignright {
 	float: right;
-	font-family: 'Open Sans', sans-serif;
-	color: #AF3232;
-	font-size: 15px;
 	margin-right: 50px;
-	margin-top: 5px;
 }
