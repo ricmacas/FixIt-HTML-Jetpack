@@ -797,3 +797,11 @@ nav.menu-bar ul li:first-child a { border-left: 0 }
 input[type=radio] {
     margin-right: 5px;
 }
+
+img[alt=nurse-jan] {
+    float:right;
+    margin-top: -1.0%;
+    margin-right: 35px;
+    width: 226px; 
+    height: 244px;
+}
